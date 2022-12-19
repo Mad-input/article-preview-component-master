@@ -29,8 +29,12 @@ body {
     border-radius: 10px 0 0 10px;
   }
 
+  .card .card-body {
+    padding: 10px 20px;
+  }
+
   .card .card-content .card-title {
-    font-size  : 22px;
+    font-size  : 18px;
     line-height: 30px;
   }
 
